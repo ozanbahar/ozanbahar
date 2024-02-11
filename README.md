@@ -1,4 +1,4 @@
-#### Hi there 👋, Ozan Bahar
+#### Hi there 👋,
 #### Data Scientist and Developer
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ozanbahar&theme=dark)](https://git.io/streak-stats)
