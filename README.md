@@ -1,4 +1,4 @@
-### Hi there 👋, Ozan Bahar
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋)](https://git.io/typing-svg),### Ozan Bahar
 #### Data Scientist and Developer
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ozanbahar&theme=dark)](https://git.io/streak-stats)
