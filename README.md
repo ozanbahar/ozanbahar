@@ -19,7 +19,7 @@ My objective is to apply this knowledge to drive innovation and efficiency in pr
 ![](https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker)
 
 ## Contact 
-[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ozan-bahar//) 
+[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/ozan-bahar//) 
 [<img src='https://www.svgrepo.com/show/312259/github.svg' alt='github' height='40'>](https://github.com/https://github.com/ozanbahar) 
 [<img src='https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-white-round-icon.png' alt='X' height='40'>](https://twitter.com/https://twitter.com/ozanbahar_) 
 [<img src='https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png' alt='kaggle' height='40'>](https://www.kaggle.com/ozanbahar)
