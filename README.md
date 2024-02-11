@@ -7,9 +7,9 @@ I'm an industrial engineer dedicated to expanding my expertise in software and d
 My objective is to apply this knowledge to drive innovation and efficiency in projects, leveraging the intersection of engineering, software development, and data analysis.
 
 Skills: 
-<p align="center">
+
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,sql,py,docker,linux" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,py,docker,linux" />
   </a>
 </p>
 
@@ -17,6 +17,7 @@ Skills:
 - 🔭 I’m currently working on this page. 
 
 <!--
+<p align="center">
 **ozanbahar/ozanbahar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
 T-SQL / .Net Core / Python  / VBA 
