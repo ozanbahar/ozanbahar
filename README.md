@@ -9,7 +9,7 @@ My objective is to apply this knowledge to drive innovation and efficiency in pr
 Skills: 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,sqlite,py,docker,linux" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,sql,py,docker,linux" />
   </a>
 </p>
 
