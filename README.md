@@ -3,7 +3,7 @@
 ![Data Scientist and Development](https://media.licdn.com/dms/image/D4D12AQGxBxdip0Whyw/article-cover_image-shrink_600_2000/0/1691256426243?e=1713398400&v=beta&t=20kWXHLpwzzvzkU8xXuWPYCMERIzbkdDkAYHXo6ZbNA)
 
 I am an industrial engineer dedicated to expanding my expertise in software and data fields. With proficiency in .NET, T-SQL, Python, and SAP, I am actively enriching my skills in these domains.
-My objective is to apply this knowledge to drive innovation and efficiency in projects, leveraging the intersection of engineering, software development, and data analysis
+My objective is to apply this knowledge to drive innovation and efficiency in projects, leveraging the intersection of engineering, software development, and data analysis.
 
 Skills: TSQL / .Net Core / Python  / VBA 
 
