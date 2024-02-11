@@ -1,18 +1,22 @@
 #### Hi there 👋,
 #### Data Scientist and Developer
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ozanbahar&theme=dark)](https://git.io/streak-stats)
-
+<img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ozanbahar&theme=dark&layout=compact&hide_border=true&langs_count=10&exclude_repo=mcp1.8.9op">
 
 I'm an industrial engineer dedicated to expanding my expertise in software and data fields. With proficiency in .NET, T-SQL, Python, and SAP, I'm actively enriching my skills in these domains.
 My objective is to apply this knowledge to drive innovation and efficiency in projects, leveraging the intersection of engineering, software development, and data analysis.
 
-Skills: 
 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,py,docker,linux" />
-  </a>
-</p>
+
+## Skills
+
+
+
+![](https://img.shields.io/badge/SQL-red?style=for-the-badge&logo=microsoftsqlserver)
+![](https://img.shields.io/badge/C%23-8669AE?style=for-the-badge&logo=csharp&logoColor=white)
+![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![](https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker)
 
 
 - 🔭 I’m currently working on this page. 
@@ -37,6 +41,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ozanbahar&theme=dark)](https://git.io/streak-stats) 
+Skills: 
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,py,docker,linux" />
+  </a>
+</p>
 
 
 <picture>
