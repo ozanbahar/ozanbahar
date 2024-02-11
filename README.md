@@ -5,7 +5,7 @@
 I am an industrial engineer dedicated to expanding my expertise in software and data fields. With proficiency in .NET, T-SQL, Python, and SAP, I am actively enriching my skills in these domains.
 My objective is to apply this knowledge to drive innovation and efficiency in projects, leveraging the intersection of engineering, software development, and data analysis.
 
-Skills: TSQL / .Net Core / Python  / VBA 
+Skills: T-SQL / .Net Core / Python  / VBA 
 
 - 🔭 I’m currently working on this page. 
 
