@@ -1,7 +1,8 @@
 #### Hi there 👋,
 #### Data Scientist and Developer
 
-<img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ozanbahar&theme=dark&layout=compact&hide_border=true&langs_count=10&exclude_repo=mcp1.8.9op">
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ozanbahar&theme=dark)](https://git.io/streak-stats) 
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ozanbahar&theme=dark&layout=compact&hide_border=true&langs_count=10&exclude_repo=mcp1.8.9op">-->
 
 I'm an industrial engineer dedicated to expanding my expertise in software and data fields. With proficiency in .NET, T-SQL, Python, and SAP, I'm actively enriching my skills in these domains.
 My objective is to apply this knowledge to drive innovation and efficiency in projects, leveraging the intersection of engineering, software development, and data analysis.
