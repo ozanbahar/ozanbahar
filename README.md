@@ -11,9 +11,8 @@ My objective is to apply this knowledge to drive innovation and efficiency in pr
 
 ## Skills
 
-
-
 ![](https://img.shields.io/badge/SQL-red?style=for-the-badge&logo=microsoftsqlserver)
+![](https://img.shields.io/badge/SAP-white?style=for-the-badge&logo=sap)
 ![](https://img.shields.io/badge/C%23-8669AE?style=for-the-badge&logo=csharp&logoColor=white)
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
