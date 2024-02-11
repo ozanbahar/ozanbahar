@@ -1,5 +1,5 @@
 ### Hi there 👋, Ozan Bahar
-#### Data Scientist and Development
+#### Data Scientist and Developer
 ![Data Scientist and Development](https://media.licdn.com/dms/image/D4D12AQGxBxdip0Whyw/article-cover_image-shrink_600_2000/0/1691256426243?e=1713398400&v=beta&t=20kWXHLpwzzvzkU8xXuWPYCMERIzbkdDkAYHXo6ZbNA)
 
 I am an industrial engineer dedicated to expanding my expertise in software and data fields. With proficiency in .NET, T-SQL, Python, and SAP, I am actively enriching my skills in these domains.
