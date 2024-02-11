@@ -1,7 +1,7 @@
 ### Hi there 👋, Ozan Bahar
 #### Data Scientist and Developer
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozanbahar&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozanbahar&show_icons=true)
 
 I'm an industrial engineer dedicated to expanding my expertise in software and data fields. With proficiency in .NET, T-SQL, Python, and SAP, I'm actively enriching my skills in these domains.
 My objective is to apply this knowledge to drive innovation and efficiency in projects, leveraging the intersection of engineering, software development, and data analysis.
