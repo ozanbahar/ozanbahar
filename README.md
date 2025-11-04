@@ -24,7 +24,7 @@ My objective is to apply this knowledge to drive innovation and efficiency in pr
 [<img src='https://www.svgrepo.com/show/312259/github.svg' alt='github' height='40'>](https://github.com/https://github.com/ozanbahar) 
 [<img src='https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-white-round-icon.png' alt='X' height='40'>](https://twitter.com/https://twitter.com/ozanbahar_) 
 [<img src='https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png' alt='kaggle' height='40'>](https://www.kaggle.com/ozanbahar)
-[<img src='[https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/medium-white-icon.png](https://icons8.com/icons/set/medium--white)' alt='medium' height='40'>](https://medium.com/@ozan_bahar)  
+[<img src='[[https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/medium-white-icon.png](https://icons8.com/icons/set/medium--white)](https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png)' alt='medium' height='40'>](https://medium.com/@ozan_bahar)  
 
 
 - 🔭 I’m currently working on this page. 
